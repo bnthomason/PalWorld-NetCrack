@@ -20,7 +20,7 @@ Network cracking in the Exploit tab
 - GodHealth  
 - Give EXP (Credit: WoodgamerHD)  
 - Give Pal (Credit: Kaotic13)  
-- Spawn Pal
+- Spawn Pal (Semi Working for 0.1.2.0 - Credit: Bnthomason)
 
 # AOBS
 > GObjects: `48 8B 05 ? ? ? ? 48 8B 0C C8 4C 8D 04 D1 EB 03`  
